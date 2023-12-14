@@ -4,7 +4,7 @@ void main()
 {
     writeln("halo");
     int n;
-    readf(" %d", &n);
+    readf("%d", &n);
 
     int[] a = new int[](n);
     for (int i = 0; i < n; ++i)
