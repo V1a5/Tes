@@ -2,6 +2,7 @@ import std.stdio;
 
 void main()
 {
+    writeln("halo");
     int n;
     readf(" %d", &n);
 
